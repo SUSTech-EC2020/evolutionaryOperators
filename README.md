@@ -19,13 +19,15 @@
 ### 2. Yicheng Ouyang
 
 ### 3. Yu Wu
+Evaluate 33 times at the beginning of each selection, and generate 2*mu offsprings. After that, evaluate 33 times to pick up the best mu offsprings.
+
 MIN = -1.28   
 MAX = 1.28   
 N = 30   
 POPULATION_SIZE = 30   
 MAX_EVALUATION = 5000*66 = 330000
 REPEAT_TIMES = 5  
-![arithmetic+gaussian](./figures/arithmetic+gaussian.png)
+![arithmetic+gaussian2](./figures/arithmetic+gaussian2.png)
 ![log_arithmetic+gaussian](./figures/log_arithmetic+gaussian.png)
 
 ### 4. Ruyi Jiang
