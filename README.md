@@ -11,19 +11,6 @@
 ![alt text](figures/work.png)
 
 
-Reference: **yao1999evolutionary**
-```
-@article{yao1999evolutionary,
-  title={Evolutionary programming made faster},
-  author={Yao, Xin and Liu, Yong and Lin, Guangming},
-  journal={IEEE Transactions on Evolutionary computation},
-  volume={3},
-  number={2},
-  pages={82--102},
-  year={1999},
-  publisher={IEEE}
-}
-```
 ## Results and Discussions
 
 ### 1. Jiyuan Pei
@@ -45,3 +32,19 @@ Reference: **yao1999evolutionary**
 ### 9. Chao Pan
 
 ## Conclusions
+
+## Reference: 
+
+**yao1999evolutionary**
+```
+@article{yao1999evolutionary,
+  title={Evolutionary programming made faster},
+  author={Yao, Xin and Liu, Yong and Lin, Guangming},
+  journal={IEEE Transactions on Evolutionary computation},
+  volume={3},
+  number={2},
+  pages={82--102},
+  year={1999},
+  publisher={IEEE}
+}
+```
