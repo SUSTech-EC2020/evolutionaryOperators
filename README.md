@@ -45,7 +45,7 @@ REPEAT_TIMES = 10
 CROSSOVER_RATE = 0.5   
 MUTATION_RATE = 0.5    
 
-![Simple_arithmetic+Nonuniform_Cauchy](./figures/Simple_arithmetic+Nonuniform_use cauchy.png)
+![Simple_arithmetic+Nonuniform_Cauchy](./figures/Simple_arithmetic+Nonuniform_use_cauchy.png)
 
 ![Simple_arithmetic+Nonuniform_Cauchy_log](./figures/Simple_arithmetic+Nonuniform_using_Cauchy_log.png)
 
