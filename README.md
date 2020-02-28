@@ -1,4 +1,4 @@
-# Compare Evolutionary Operators on Optimising Continuous Functions
+# Compare Evolutionary Operators for Real-valued Representation
 
 ## Task
 * Implement EAs with different crossover and mutation operators for optimising the [Noisy Quartic Function](http://benchmarkfcns.xyz/benchmarkfcns/quarticfcn.html).
@@ -24,4 +24,24 @@ Reference: **yao1999evolutionary**
   publisher={IEEE}
 }
 ```
-## Task
+## Results and Discussions
+
+### 1. Jiyuan Pei
+
+### 2. Yicheng Ouyang
+
+### 3. Yu Wu
+
+### 4. Ruyi Jiang
+
+### 5. Qingquan Zhang
+
+### 6. Chao Pan
+
+### 7. Zhixiang Zhao
+
+### 8. Hao Tan
+
+### 9. Chao Pan
+
+## Conclusions
