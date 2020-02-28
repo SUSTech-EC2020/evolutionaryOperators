@@ -39,6 +39,20 @@ MUTATION_RATE = 0.5
 ![Single+Cauchy](./figures/log_c.png)
 
 ### 7. Zhixiang Zhao
+MIN = -1.28
+MAX = 1.28
+N = 30
+POPULATION_SIZE = 30
+GAMMA = 0.1
+ALPHA = 0.4
+UNIFORM_MUTATION_RATE = 1 / N
+MAX_EVALUATION = 50000
+REPEAT_TIMES = 10
+
+CROSSOVER_RATE = 0.5
+MUTATION_RATE = 0.5
+
+![Arithmetic+Uniform](./figures/Arithmetic+Uniform.png)
 
 ### 8. Hao Tan
 
