@@ -35,7 +35,7 @@ MAX_EVALUATION = 50000
 REPEAT_TIMES = 10   
 CROSSOVER_RATE = 0.5   
 MUTATION_RATE = 0.5    
-![Single+Cauchy](Single+Cauchy.png)
+![Single+Cauchy](./figures/Single+Cauchy.png)
 
 ### 7. Zhixiang Zhao
 
@@ -53,7 +53,7 @@ MAX_EVALUATION = 50000
 REPEAT_TIMES = 10   
 CROSSOVER_RATE = 0.5   
 MUTATION_RATE = 0.5   
-![Single+Uniform](Single+Uniform.png)
+![Single+Uniform](./figures/Single+Uniform.png)
 
 ## Conclusions
 
