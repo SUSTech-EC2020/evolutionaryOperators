@@ -45,9 +45,9 @@ REPEAT_TIMES = 10
 CROSSOVER_RATE = 0.5   
 MUTATION_RATE = 0.5    
 
-![Simple arithmetic + Nonuniform using Cauchy](./figures/Simple arithmetic + Nonuniform using Cauchy.png)
+![Simple arithmetic + Nonuniform using Cauchy](./figures/Simple arithmetic+Nonuniform_use cauchy.png)
 
-![Simple arithmetic + Nonuniform using Cauchy](./figures/Simple arithmetic + Nonuniform using Cauchy_log.png)
+![Simple arithmetic + Nonuniform using Cauchy](./figures/Simple arithmetic+Nonuniform_using_Cauchy_log.png)
 
 ### 6. Chao Pan
 MIN = -1.28   
