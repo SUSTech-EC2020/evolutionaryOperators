@@ -25,12 +25,35 @@
 ### 5. Qingquan Zhang
 
 ### 6. Chao Pan
+MIN = -1.28   
+MAX = 1.28   
+N = 30   
+POPULATION_SIZE = 30   
+GAMMA = 0.05   
+ALPHA = 0.4   
+MAX_EVALUATION = 50000   
+REPEAT_TIMES = 10   
+CROSSOVER_RATE = 0.5   
+MUTATION_RATE = 0.5    
+![Single+Cauchy](Single+Cauchy.png)
 
 ### 7. Zhixiang Zhao
 
 ### 8. Hao Tan
 
 ### 9. Chao Pan
+MIN = -1.28   
+MAX = 1.28   
+N = 30   
+POPULATION_SIZE = 30   
+GAMMA = 0.05   
+ALPHA = 0.4   
+UNIFORM_MUTATION_RATE = 1 / N   
+MAX_EVALUATION = 50000   
+REPEAT_TIMES = 10   
+CROSSOVER_RATE = 0.5   
+MUTATION_RATE = 0.5   
+![Single+Uniform](Single+Uniform.png)
 
 ## Conclusions
 
