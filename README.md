@@ -19,6 +19,14 @@
 ### 2. Yicheng Ouyang
 
 ### 3. Yu Wu
+MIN = -1.28   
+MAX = 1.28   
+N = 30   
+POPULATION_SIZE = 30   
+MAX_EVALUATION = 5000*66 = 330000
+REPEAT_TIMES = 5  
+![arithmetic+gaussian](./figures/arithmetic+gaussian.png)
+![log_arithmetic+gaussian](./figures/log_arithmetic+gaussian.png)
 
 ### 4. Ruyi Jiang
 
