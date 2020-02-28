@@ -34,6 +34,21 @@ REPEAT_TIMES = 5
 
 ### 5. Qingquan Zhang
 
+MIN = -1.28   
+MAX = 1.28   
+N = 30   
+POPULATION_SIZE = 30   
+GAMMA = 0.05   
+ALPHA = 0.4   
+MAX_EVALUATION = 50000   
+REPEAT_TIMES = 10   
+CROSSOVER_RATE = 0.5   
+MUTATION_RATE = 0.5    
+
+![Simple arithmetic + Nonuniform using Cauchy](./figures/Simple arithmetic + Nonuniform using Cauchy.png)
+
+![Simple arithmetic + Nonuniform using Cauchy](./figures/Simple arithmetic + Nonuniform using Cauchy_log.png)
+
 ### 6. Chao Pan
 MIN = -1.28   
 MAX = 1.28   
