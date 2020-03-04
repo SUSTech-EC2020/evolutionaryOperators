@@ -16,6 +16,26 @@
 
 ### 1. Jiyuan Pei
 
+MIN = -1.28   
+MAX = 1.28   
+N = 30   
+POPULATION_SIZE = 30   
+MAX_EVALUATION = 5,000,000
+GAMMA = 0.03
+ALPHA = 0.4   
+EVALUATION_REPEAT = 5  
+CROSSOVER_RATE = 1  
+MUTATION_RATE = 0.5  
+SELECT_POLICY = TOP 15
+
+![arithmetic_gaussian](./figures/Arithmetic+Gauss.png)
+
+BestSoFar
+
+![arithmetic_gaussian_sofar](./figures/Arithmetic+Gauss_SoFar.png)
+
+
+
 ### 2. Yicheng Ouyang
 
 ### 3. Yu Wu
@@ -98,7 +118,7 @@ MUTATION_RATE = 0.5
 
 ## Conclusions
 
-## Reference: 
+## Reference:
 
 **yao1999evolutionary**
 ```
