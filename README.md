@@ -38,6 +38,17 @@ BestSoFar
 
 ### 2. Yicheng Ouyang
 
+MIN_VALUE = -1.28
+MAX_VALUE = 1.28
+POPULATION_SIZE = 30
+MAX_EVALUATION = 500000
+DIMENSION = 30
+MUTATE_RATE = 0.1
+ALPHA = 0.4
+MAXIMIZATION = False
+
+![](./figures/SimpleArithmetic+Gaussian.png)
+
 ### 3. Yu Wu
 Evaluate 33 times at the beginning of each selection, and generate 2*mu offsprings. After that, evaluate 33 times to pick up the best mu offsprings.
 
