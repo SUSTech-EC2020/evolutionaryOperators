@@ -26,15 +26,25 @@ ALPHA = 0.4
 EVALUATION_REPEAT = 5  
 CROSSOVER_RATE = 1  
 MUTATION_RATE = 0.5  
-SELECT_POLICY = TOP 15
-
-![arithmetic_gaussian](./figures/Arithmetic+Gauss.png)
-
-BestSoFar
-
-![arithmetic_gaussian_sofar](./figures/Arithmetic+Gauss_SoFar.png)
 
 
+SELECTION: PARENT, roulette_wheel, λ = 60
+Best Each Evaluation
+
+![arithmetic_gaussian](./figures/parentRWeachEva.png)
+
+Best So Far
+
+![arithmetic_gaussian_sofar](./figures/parentRWSoFar.png)
+
+SELECTION: SURVIVOR, roulette_wheel
+Best Each Evaluation
+
+![arithmetic_gaussian](./figures/survivoRWeachEva.png)
+
+Best So Far
+
+![arithmetic_gaussian_sofar](./figures/survivoRWsofar.png)
 
 ### 2. Yicheng Ouyang
 
